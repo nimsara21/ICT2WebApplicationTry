@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ICT2WebApplicationTry:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>ICT2WebApplicationTry</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="ICT2WebApplicationTry-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="ICT2WebApplicationTry:war exploded" />
+    </root>
+  </artifact>
+</component>
